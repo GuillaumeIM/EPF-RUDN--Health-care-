@@ -7,7 +7,17 @@ This project was supervised by [Naci Dilekli](https://github.com/ndilekli/).**
 
 ## Objective :  
 **The goal of this project is to find the areas furthest from a densely populated hospital and doctor. This for different age groups and for a region or the whole country. And that in an automatic way with the choices of the user**  
+## Warning
+The program is very heavy and can take a long time to run. That's why you can choose to take into consideration (or not) the doctors in your analysis.   
 
+If you want to take the doctors into consideration the execution time of the code on my computer is about 8 minutes, if you don't take them into consideration the duration is 3 minutes.  
+
+My configuration:   
+Ram: 16 GB (2 x 8 GB), 3000 MHz  
+Processor: Intel Core i7-9700K (3.6 GHz)   
+Storage: Samsung 970 EVO Plus, 1 TB, M.2   
+
+My configuration being very powerful it may take much more time for you to run the program! 
 ## Code operation : 
 
 This project is realized with the python programming language using the arcpy library.   
